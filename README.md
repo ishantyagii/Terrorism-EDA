@@ -2,8 +2,8 @@
 
 Dataset-https://bit.ly/2TK5Xn5
 
-AIM
+OBJECTIVE
 
-● As a security/defense analyst, try to find out the hot zone of terrorism.
+● find out the hot zones of terrorism by analyzing different features.
 
-● What all security issues and insights you can be derived by EDA?
+● What all security issues and insights can be derived by EDA?
